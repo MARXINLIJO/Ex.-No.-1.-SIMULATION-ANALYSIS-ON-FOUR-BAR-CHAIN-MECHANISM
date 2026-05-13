@@ -53,7 +53,9 @@
 
 
 ## Output:
+<img width="979" height="761" alt="image" src="https://github.com/user-attachments/assets/ee2ee0cf-b8f1-411e-9ca2-72509e8b49f4" />
 
+<img width="1002" height="542" alt="image" src="https://github.com/user-attachments/assets/b1f4864a-5aeb-4022-b519-daab1b308f2c" />
 
 ### Name:MARXIN LIJO M
 ### Register Number: 212223240085
